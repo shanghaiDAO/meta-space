@@ -1,0 +1,31 @@
+user:
+  username: shd
+  nickname: ""
+site:
+  title: shanghaiDAO
+  subtitle: shanghaiDAO
+  description: shanghaiDAO
+  author: shanghaiDAO
+  keywords:
+    - shanghaiDAO
+  favicon: https://storageapi.fleek.co/casimir-crystal-team-bucket/metanetwork/users/metaio-storage/favicon.ico
+  avatar: https://i.loli.net/2021/05/13/CiEFPgWJzuk5prZ.png
+  configId: 150
+  language: en
+  timezone: Asia/Shanghai
+  domain: shanghaidao.metaspaces.me
+  metaSpacePrefix: shanghaidao
+theme:
+  isPackage: false
+  id: 17
+  createdAt: 2021-12-22T07:12:18.776Z
+  updatedAt: 2021-12-22T07:29:32.181Z
+  themeName: bear
+  themeRepo: https://github.com/fzxiao233/hexo-theme-bear
+  themeBranch: master
+  themeType: HEXO
+gateway:
+  ipfs:
+    baseUrl: https://ipfs.fleek.co/ipfs/
+  dataViewer:
+    baseUrl: https://meta-network-data-viewer.vercel.app/

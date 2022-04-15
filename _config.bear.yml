@@ -1,0 +1,28 @@
+menu:
+  归档: /archives
+rss: /atom.xml
+title: GARY.SHEN
+author: GARY.SHEN
+aboutme: Halo~
+domain: ""
+excerpt_link: 全文...
+fancybox: true
+date_format: MMMM Do YYYY
+socials:
+  github: ""
+  flickr: ""
+  email: ""
+  wechat: ""
+index_widgets: null
+highlight_theme: atom light
+archive_type: monthly
+show_count: false
+disqus_shortname: null
+google_analytics: ""
+gauges_analytics: null
+favicon: /images/avatar.png
+avatar: /images/avatar.png
+twitter: null
+google_plus: null
+fb_admins: null
+fb_app_id: null
