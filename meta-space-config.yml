@@ -15,15 +15,6 @@ site:
   timezone: Asia/Shanghai
   domain: shanghaidao.metaspaces.me
   metaSpacePrefix: shanghaidao
-theme:
-  isPackage: false
-  id: 17
-  createdAt: 2021-12-22T07:12:18.776Z
-  updatedAt: 2021-12-22T07:29:32.181Z
-  themeName: bear
-  themeRepo: https://github.com/fzxiao233/hexo-theme-bear
-  themeBranch: master
-  themeType: HEXO
 gateway:
   ipfs:
     baseUrl: https://ipfs.fleek.co/ipfs/
